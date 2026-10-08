@@ -15,7 +15,7 @@ import OpticalScene from "./OpticalScene";
 import type { CameraView } from "./OpticalScene";
 import TargetingScene from "./TargetingScene";
 import type { TargetView } from "./TargetingScene";
-import { TargetChart, TargetPrinciple } from "./Targeting";
+import { TargetChart, TargetPrinciple } from "./TargetingComponents";
 import {
   DURATION,
   INTERACTION_START,
